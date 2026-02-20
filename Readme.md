@@ -19,7 +19,7 @@
 
 ---
 
-## 🚀 About Me
+## About Me
 
 - 💼 Ex-AI Reasoning Engineer at **Turing**.
 - 🌍 Active **open-source contributor** to Apache, MetaCall, Palisadoes Foundation & AsyncAPI
@@ -31,7 +31,7 @@
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 ### Languages
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
@@ -57,7 +57,7 @@
 
 ---
 
-## 🌟 Open-Source Contributions
+## Open-Source Contributions
 
 I actively contribute to large-scale open-source projects across multiple ecosystems:
 
@@ -72,7 +72,7 @@ I actively contribute to large-scale open-source projects across multiple ecosys
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=miantalha45&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Talha's GitHub Stats" height="165"/>
