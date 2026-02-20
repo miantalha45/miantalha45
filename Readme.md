@@ -80,7 +80,7 @@ I actively contribute to large-scale open-source projects across multiple ecosys
 
 ---
 
-## 🏆 Achievements
+## Achievements
 
 - 🦈 **Pull Shark** — GitHub Achievement
 - 🥇 **ICPC Asia Regional** Contestant — Topi '25
