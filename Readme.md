@@ -2,7 +2,7 @@
 
 <p align="center">
   <b>Software Engineer · Open-Source Contributor · Competitive Programmer</b><br/>
-  <i>ICPC Asia Regional Contestant (Topi '25) &nbsp;|&nbsp; LiFT '25 Scholar &nbsp;|&nbsp; Trainer @ Dev Weekends &nbsp;|&nbsp; Turing</i>
+  <i>ICPC Asia Regional Contestant (Topi '25) &nbsp;|&nbsp; LiFT '25 Scholar &nbsp;|&nbsp; Trainer @ Dev Weekends &nbsp;|&nbsp; Ex-AI Reasoning Engineer Turing</i>
 </p>
 
 <p align="center">
@@ -21,13 +21,13 @@
 
 ## About Me
 
-- 💼 Ex-AI Reasoning Engineer at **Turing**.
-- 🌍 Active **open-source contributor** to Apache, MetaCall, Palisadoes Foundation & AsyncAPI
-- 🏆 **ICPC Asia Regional Contestant** — Topi '25
-- 🎓 **LiFT '25 Scholar**
-- 🧑‍🏫 **Trainer @ Dev Weekends** — mentoring the next generation of developers
-- 🔍 Currently exploring distributed systems, serialization frameworks, and full-stack engineering
-- 📬 Reach me on [LinkedIn](https://www.linkedin.com/in/swe-talha-amjad/) or [X](https://x.com/italhamjad)
+- Ex-AI Reasoning Engineer at **Turing**.
+- Active **open-source contributor** to Apache, MetaCall, Palisadoes Foundation & AsyncAPI
+- **ICPC Asia Regional Contestant** — Topi '25
+- **LiFT '25 Scholar**
+- **Trainer @ Dev Weekends** — mentoring the next generation of developers
+- Currently exploring distributed systems, serialization frameworks, and full-stack engineering
+- Reach me on [LinkedIn](https://www.linkedin.com/in/swe-talha-amjad/) or [X](https://x.com/italhamjad)
 
 ---
 
@@ -82,7 +82,6 @@ I actively contribute to large-scale open-source projects across multiple ecosys
 
 ## Achievements
 
-- 🦈 **Pull Shark** — GitHub Achievement
 - 🥇 **ICPC Asia Regional** Contestant — Topi '25
 - 🎓 **LiFT '25 Scholar**
 - ✅ **649+** contributions in the last year
