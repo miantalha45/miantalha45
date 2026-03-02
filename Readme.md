@@ -1,8 +1,8 @@
 <h1 align="center">Hi there, I'm Talha Amjad </h1>
 
 <p align="center">
-  <b>Software Engineer · Open-Source Contributor · Competitive Programmer</b><br/>
-  <i>ICPC Asia Regional Contestant (Topi '25) &nbsp;|&nbsp; LiFT '25 Scholar &nbsp;|&nbsp; Trainer @ Dev Weekends &nbsp;|&nbsp; Ex-AI Reasoning Engineer Turing</i>
+  <b>Software Engineer · Open-Source Collaborator · Competitive Programmer</b><br/>
+  <i>ICPC Regional Contestant (Topi '25) &nbsp;|&nbsp; LiFT '25 Scholar &nbsp;|&nbsp; Trainer @ Dev Weekends &nbsp;|&nbsp; Ex-AI Reasoning @ Engineer Turing</i>
 </p>
 
 <p align="center">
@@ -54,37 +54,6 @@
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
-
----
-
-## Open-Source Contributions
-
-I actively contribute to large-scale open-source projects across multiple ecosystems:
-
-| Project | Organization | Focus Area |
-|---|---|---|
-| [apache/fory](https://github.com/apache/fory) | Apache | Serialization framework (JavaScript) |
-| [apache/iotdb](https://github.com/apache/iotdb) | Apache | Time-series database (Java/CLI) |
-| [metacall/faas](https://github.com/metacall/faas) | MetaCall | Serverless / FaaS platform |
-| [metacall/protocol](https://github.com/metacall/protocol) | MetaCall | TypeScript protocol layer |
-| [talawa-admin](https://github.com/PalisadoesFoundation/talawa-admin) | Palisadoes | Community management platform |
-| [asyncapi/generator](https://github.com/asyncapi/generator) | AsyncAPI | Async API tooling |
-
----
-
-## GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=miantalha45&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
-</p>
-
----
-
-## Achievements
-
-- 🥇 **ICPC Asia Regional** Contestant — Topi '25
-- 🎓 **LiFT '25 Scholar**
-- ✅ **649+** contributions in the last year
 
 ---
 
