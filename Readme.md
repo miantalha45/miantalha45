@@ -13,7 +13,7 @@
 - **ICPC Asia Regional Contestant** — Topi '25
 - **LiFT '25 Scholar**
 - **Trainer @ Dev Weekends** — mentoring the next generation of developers
-- Currently exploring distributed systems, serialization frameworks, and full-stack engineering
+- Currently exploring distributed systems, full stack engineering, and low level systems engineering.
 - Reach me on [LinkedIn](https://www.linkedin.com/in/swe-talha-amjad/) or [X](https://x.com/italhamjad)
 
 ---
