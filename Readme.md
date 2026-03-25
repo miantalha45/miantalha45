@@ -23,7 +23,7 @@
 <table>
   <tr>
     <td><b>Languages</b></td>
-    <td><img src="https://skillicons.dev/icons?i=ts,js,python,java,go" /></td>
+    <td><img src="https://skillicons.dev/icons?i=ts,js,python,dart,java,go,swift,cs" /></td>
   </tr>
   <tr>
     <td><b>Frontend</b></td>
@@ -31,7 +31,7 @@
   </tr>
   <tr>
     <td><b>Backend</b></td>
-    <td><img src="https://skillicons.dev/icons?i=nodejs,express,graphql" /></td>
+    <td><img src="https://skillicons.dev/icons?i=nodejs,express,graphql,dotnet" /></td>
   </tr>
   <tr>
     <td><b>Data & Infra</b></td>
@@ -49,13 +49,13 @@
 
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=junaiddshaukat&stroke=ffffff&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakNum=ffffff&currStreakLabel=58a6ff&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=miantalha45&stroke=ffffff&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakNum=ffffff&currStreakLabel=58a6ff&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=junaiddshaukat&bg_color=0d1117&color=58a6ff&line=58a6ff&point=f0f6fc&area=true&hide_border=true" alt="GitHub Activity Graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=miantalha45&bg_color=0d1117&color=58a6ff&line=58a6ff&point=f0f6fc&area=true&hide_border=true" alt="GitHub Activity Graph"/>
 </div>
 
 ---
