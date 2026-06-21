@@ -23,7 +23,7 @@
 <table>
   <tr>
     <td><b>Languages</b></td>
-    <td><img src="https://skillicons.dev/icons?i=ts,js,python,dart,java,go,swift,cs" /></td>
+    <td><img src="https://skillicons.dev/icons?i=ts,js,python,java,go,cs" /></td>
   </tr>
   <tr>
     <td><b>Frontend</b></td>
