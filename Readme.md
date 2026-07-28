@@ -42,25 +42,3 @@
     <td><img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,gcp,linux,git" /></td>
   </tr>
 </table>
-
----
-
-## GitHub Stats
-
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=miantalha45&stroke=ffffff&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakNum=ffffff&currStreakLabel=58a6ff&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" />
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=miantalha45&bg_color=0d1117&color=58a6ff&line=58a6ff&point=f0f6fc&area=true&hide_border=true" alt="GitHub Activity Graph"/>
-</div>
-
----
-
-<p align="center">
-  <i>"Code is not just syntax — it's a way of thinking."</i><br/>
-  <b>— Talha Amjad</b>
-</p>
