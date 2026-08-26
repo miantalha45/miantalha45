@@ -12,7 +12,7 @@
 - Active **open-source collaborator**
 - **ICPC Asia Regional Contestant** — Topi '25
 - **LiFT '25 Scholar**
-- **Trainer @ Dev Weekends** — mentoring the next generation of developers
+- **Trainer @ Dev Weekends** — mentoring the next generation of Engineers
 - Currently exploring Kubernetes scheduling, cloud-native AI infrastructure, distributed systems, and full-stack engineering
 - Reach me on [LinkedIn](https://www.linkedin.com/in/swe-talha-amjad/) or [X](https://x.com/italhamjad)
 
@@ -43,11 +43,6 @@
 
   <tr>
     <td><b>Cloud Native & DevOps</b></td>
-    <td><img src="https://skillicons.dev/icons?i=kubernetes,docker,linux,nginx,git,githubactions" /></td>
-  </tr>
-
-  <tr>
-    <td><b>Cloud</b></td>
-    <td><img src="https://skillicons.dev/icons?i=aws,gcp" /></td>
+    <td><img src="https://skillicons.dev/icons?i=kubernetes,docker,linux,nginx,git,githubactions,aws" /></td>
   </tr>
 </table>
