@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Talha Amjad </h1>
 
 <p align="center">
-  <b>Software Engineer · Open-Source Collaborator · Competitive Programmer</b><br/>
+  <b>Full Stack · Cloud Native · AI/ML pipelines</b><br/>
 </p>
 
 ---
