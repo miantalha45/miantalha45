@@ -8,7 +8,7 @@
 
 ## About Me
 
-- Software Engineer focused on **Kubernetes, AI infrastructure, cloud-native systems, and full-stack development**
+- **LFX Mentorship Term 3 Mentee @ Volcano** — Generic xPU Topology-Aware Scheduling
 - **Volcano Community Member** and active open-source contributor
 - Contributor to **Volcano** — Kubernetes batch and AI workload scheduling
 - Contributor to **Kthena** — AI model serving on Kubernetes
@@ -16,23 +16,28 @@
 - **ICPC Asia Regional Contestant** — Topi '25
 - **LiFT '25 Scholar**
 - **Trainer @ Dev Weekends** — mentoring developers and sharing technical knowledge
-- Currently exploring **distributed systems, Kubernetes scheduling, AI/ML infrastructure, and cloud-native engineering**
+- Interested in **Kubernetes, distributed systems, AI infrastructure, and cloud-native engineering**
 
 ---
 
 ## Open Source
 
 ### 🌋 Volcano
-Contributing to Kubernetes scheduling and AI infrastructure, including:
 
-- Scheduler correctness and resource accounting
+**LFX Mentorship Term 3 — Generic xPU Topology-Aware Scheduling**
+
+Contributing to Kubernetes scheduling and AI infrastructure, with work across:
+
+- Topology-aware scheduling
+- xPU device and domain selection
 - Dynamic Resource Allocation (DRA)
 - DeviceShare
-- Topology-aware scheduling
+- Scheduler correctness and resource accounting
 - Queue and workload management
 
 ### ⚡ Kthena
-Contributing to AI model-serving infrastructure on Kubernetes, with work around:
+
+Contributing to AI model-serving infrastructure on Kubernetes, including:
 
 - Model serving
 - Kubernetes controllers
@@ -95,4 +100,4 @@ Contributing to AI model-serving infrastructure on Kubernetes, with work around:
 
 ## Connect With Me
 
-[LinkedIn](YOUR_LINKEDIN) · [X](YOUR_X)
+[LinkedIn](https://www.linkedin.com/in/swe-talha-amjad/) · [X](https://x.com/italhamjad/)
