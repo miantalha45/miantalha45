@@ -22,7 +22,7 @@
 
 ## Open Source
 
-### 🌋 Volcano
+### Volcano
 
 **LFX Mentorship Term 3 — Generic xPU Topology-Aware Scheduling**
 
@@ -34,15 +34,6 @@ Contributing to Kubernetes scheduling and AI infrastructure, with work across:
 - DeviceShare
 - Scheduler correctness and resource accounting
 - Queue and workload management
-
-### ⚡ Kthena
-
-Contributing to AI model-serving infrastructure on Kubernetes, including:
-
-- Model serving
-- Kubernetes controllers
-- Workload lifecycle management
-- Routing and scheduling
 
 ---
 
